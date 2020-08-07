@@ -1,2 +1,2 @@
 # proffy
-Plataforma de estudos online
+Study Online Platform
